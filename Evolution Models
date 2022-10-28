@@ -1,0 +1,32 @@
+
+class World{
+    Creature c;
+    public void createCreature(){
+
+    }
+}
+
+class Actions{
+    Sleep z;
+    Eat f;
+    public void dailyActions(){
+
+    }
+}
+
+class Creature extends Actions{
+
+    public void die(){
+
+    }
+    public void reproduce() {
+
+    }
+}
+
+
+public class EvolutionModels{
+    public static void main(String args[]){
+
+    }
+}
